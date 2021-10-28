@@ -9,30 +9,41 @@ pronouns = "he/him"
 [code]
 editor = "neovim"
 shell = "zsh"
-os = "popos"
+os = "pop-os"
 
 [code.languages]
 learned = [
+	"bash",
+	"html/css",
 	"java",
 	"javascript",
-	"typescript",
-	"node.js",
-	"python",
-	"html/css",
-	"bash",
+	"latex",
 	"markdown",
-	"latex"
+	"python",
+	"typescript"
 ]
 interested = [
-	"rust",
+	"c",
+	"r",
+	"rust"
+]
+
+[code.tools]
+learned = [
+	"git",
+	"node.js"
+]
+interested = [
+	"docker",
+	"pandas",
 	"react",
-	"r"
+	"vue"
 ]
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrianshChari&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Hope you're having a great day! :wave:
+#### Hope you're having a great day! :wave:
 <!--
 **shrianshChari/shrianshChari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
