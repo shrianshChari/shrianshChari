@@ -2,36 +2,43 @@
 
 Hopeful Data Scientist @ Purdue University
 
-```yaml
----
-name: Shriansh Chari
-pronouns: he/him
+```toml
+name = "Shriansh Chari"
+pronouns = "he/him"
 
-code:
-	languages:
-		learned: 
-			- bash
-			- html/css
-			- java
-			- javascript
-			- latex
-			- markdown
-			- python
-			- typescript
-		interested: 
-			- c
-			- r
-			- rust
-	tools:
-		learned: 
-			- git
-			- node.js
-		interested: 
-			- docker
-			- pandas
-			- react
-			- vue
-				...
+[code]
+editor = "neovim"
+shell = "zsh"
+os = "pop-os"
+
+[code.languages]
+learned = [
+	"bash",
+	"html/css",
+	"java",
+	"javascript",
+	"latex",
+	"markdown",
+	"python",
+	"typescript"
+]
+interested = [
+	"c",
+	"r",
+	"rust"
+]
+
+[code.tools]
+learned = [
+	"git",
+	"node.js"
+]
+interested = [
+	"docker",
+	"pandas",
+	"react",
+	"vue"
+]
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrianshChari&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -50,4 +57,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-		-->
+-->
