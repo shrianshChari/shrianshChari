@@ -30,7 +30,7 @@ interested = [
 ]
 ```
 
-[![Shriansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrianshChari)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrianshChari&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Hope you're having a great day! :wave:
 <!--
