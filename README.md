@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%2C+I+am+Shriansh+Chari!)](https://git.io/typing-svg)
 
 Hopeful Data Scientist @ Purdue University
-
+<!--
 ```toml
 name = "Shriansh Chari"
 pronouns = "he/him"
@@ -39,6 +39,43 @@ interested = [
 	"react",
 	"vue"
 ]
+```
+-->
+
+```coffeescript
+name: 'Shriansh Chari'
+pronouns: 'he/him'
+code: 
+	editor: 'neovim'
+	shell: 'zsh'
+	os: 'pop-os'
+	languages:
+		learned = [
+			'bash',
+			'html/css',
+			'java',
+			'javascript',
+			'latex',
+			'markdown',
+			'python',
+			'typescript'
+		]
+		interested = [
+			'c',
+			'r',
+			'rust'
+		]
+	tools:
+		learned = [
+			'git',
+			'node.js'
+		]
+		interested = [
+			'docker',
+			'pandas',
+			'react',
+			'vue'
+		]
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrianshChari&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
