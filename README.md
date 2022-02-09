@@ -68,11 +68,13 @@ code:
 	tools:
 		learned = [
 			'git',
-			'node.js'
+			'matplotlib',
+			'node.js',
+			'numpy',
+			'pandas'
 		]
 		interested = [
 			'docker',
-			'pandas',
 			'react',
 			'vue'
 		]
@@ -95,3 +97,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
