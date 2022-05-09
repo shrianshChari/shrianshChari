@@ -52,6 +52,7 @@ code:
 	languages:
 		learned = [
 			'bash',
+			'c',
 			'html/css',
 			'java',
 			'javascript',
@@ -61,7 +62,8 @@ code:
 			'typescript'
 		]
 		interested = [
-			'c',
+			'go',
+			'lua',
 			'r',
 			'rust'
 		]
