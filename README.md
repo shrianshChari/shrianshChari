@@ -59,12 +59,12 @@ code:
 			'latex',
 			'markdown',
 			'python',
-			'typescript'
+			'typescript',
+			'r',
+			'lua'
 		]
 		interested = [
 			'go',
-			'lua',
-			'r',
 			'rust'
 		]
 	tools:
@@ -73,7 +73,8 @@ code:
 			'matplotlib',
 			'node.js',
 			'numpy',
-			'pandas'
+			'pandas',
+			'sql'
 		]
 		interested = [
 			'docker',
