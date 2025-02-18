@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%2C+I+am+Shriansh+Chari!)](https://git.io/typing-svg)
 
-Computer Science + Data Science Student @ Purdue University
+Masters in Data Analytics @ SJSU
 <!--
 ```toml
 name = "Shriansh Chari"
